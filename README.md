@@ -6,6 +6,6 @@ I’ve shipped production systems in TypeScript, Swift, Go, and Python across we
 
 <picture>
   <source height="32" media="(prefers-color-scheme: dark)" srcset="assets/signature-white.png">
-  <source height="32" media="(prefers-color-scheme: light)" srcset="assets/signature-dark.png">
-  <img height="32" alt="Signature" src="assets/signature-dark.png">
+  <source height="32" media="(prefers-color-scheme: light)" srcset="assets/signature-black.png">
+  <img height="32" alt="Signature" src="assets/signature-black.png">
 </picture>
