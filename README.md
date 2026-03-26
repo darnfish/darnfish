@@ -1,6 +1,6 @@
 I’m a software and design engineer building high-craft consumer products at the intersection of engineering and design.
 
-Raised by a graphic designer and an engineer-turned-artist, I bring a strong bias toward clarity, usability, and polish.
+Raised by a graphic designer and a Formula 1® engineer-turned-artist, I bring a strong bias toward clarity, usability, and polish.
 
 I’ve shipped production systems in TypeScript, Swift, Go, and Python across web, iOS, and infrastructure, with solo work reaching millions of humans and shared by Netflix, YouTube, and the UK government.
 
